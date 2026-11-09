@@ -1,0 +1,11 @@
+# Secrets and lab credentials - never commit
+*.csv
+*.pfx
+*.key
+*.env
+*secret*
+*password*
+
+# Local junk
+.vscode/
+*.log
